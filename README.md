@@ -9,12 +9,10 @@
 
 ## How To Use
 
-```
-bash
+```bash
 # You need python 3.6+
 
 # pip install requests
 
 # Check Local API Information
-
 ```
